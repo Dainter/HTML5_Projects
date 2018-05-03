@@ -5,8 +5,10 @@ VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Introduction", "Introduction", "{94346F59-E184-48C6-88B2-4FB7B640D744}"
 	ProjectSection(SolutionItems) = preProject
-		HTMLPage1.html = HTMLPage1.html
+		HTMLPage_C3.html = HTMLPage_C3.html
+		HTMLPage_C4.html = HTMLPage_C4.html
 		JS1.js = JS1.js
+		Style.css = Style.css
 	EndProjectSection
 EndProject
 Global
